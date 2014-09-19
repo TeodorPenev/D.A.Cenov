@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--Моята библиотека-->
+<Knigi>
+  <Kniga ID="2">
+    <Zaglavie>Истинска проба</Zaglavie>
+    <Avtor>Иван Вазов</Avtor>
+  </Kniga>
+  <Kniga ID="3">
+    <Zaglavie>Пробно</Zaglavie>
+    <Avtor>Алеко Константинов</Avtor>
+  </Kniga>
+  <Kniga ID="1233">
+    <Zaglavie>Под игото</Zaglavie>
+    <Avtor>Иван Вазов</Avtor>
+  </Kniga>
+  <Kniga ID="1234">
+    <Zaglavie>До Чикаго и назад</Zaglavie>
+    <Avtor>Алеко Константинов</Avtor>
+  </Kniga>
+  <Kniga ID="2000">
+    <Zaglavie>Проба</Zaglavie>
+    <Avtor>Проба</Avtor>
+  </Kniga>
+  <Kniga ID="3000">
+    <Zaglavie>Тест</Zaglavie>
+    <Avtor>Тест</Avtor>
+  </Kniga>
+  <Kniga ID="4000">
+    <Zaglavie>Проба Проба</Zaglavie>
+    <Avtor>Иван Вазов</Avtor>
+  </Kniga>
+</Knigi>

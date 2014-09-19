@@ -1,0 +1,24 @@
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\bin\Debug\SPK26_project.exe.config
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPK26_project.exe
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPK26_project.pdb
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\bin\Debug\SPK26_project.exe
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\bin\Debug\SPK26_project.pdb
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPK26_project.Properties.Resources.resources
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.MainForm.resources
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.MainForm.resources
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\bin\Debug\SPA115013_project.exe.config
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.Properties.Resources.resources
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\bin\Debug\SPA115013_project.exe
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\bin\Debug\SPA115013_project.pdb
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.exe
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.pdb
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.Cars.resources
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.CarsForm.resources
+C:\Users\Teodor\Desktop\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.CustumersForm.resources
+D:\Documents\BI\3Курс\2Семестър\Приложно програмиране\SPА115013\SPA115013_project\SPA115013\bin\Debug\SPA115013_project.exe.config
+D:\Documents\BI\3Курс\2Семестър\Приложно програмиране\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.exe
+D:\Documents\BI\3Курс\2Семестър\Приложно програмиране\SPА115013\SPA115013_project\SPA115013\obj\Debug\SPA115013_project.csprojResolveAssemblyReference.cache

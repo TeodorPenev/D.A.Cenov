@@ -1,0 +1,24 @@
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\bin\Debug\Sap.exe.config
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\bin\Debug\Sap.exe
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\bin\Debug\Sap.pdb
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Sap.Form1.resources
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Sap.Properties.Resources.resources
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Course_Project_SAP.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Sap.exe
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Sap.pdb
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\bin\Debug\Course Project SAP.exe.config
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Course_Project_SAP.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\obj\Debug\Course_Project_SAP.Properties.Resources.resources
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\Main Form\Sap\bin\Debug\Course_Project_SAP.exe.config
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\bin\Debug\Course_Project_SAP.exe.config
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Sap.Form1.resources
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.Properties.Resources.resources
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.csproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\bin\Debug\Course_Project_SAP.exe
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\bin\Debug\Course_Project_SAP.pdb
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.exe
+C:\Users\Teodor\Desktop\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.pdb
+D:\Documents\BI\3Курс\2Семестър\Системен анализ и проектиране\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\bin\Debug\Course_Project_SAP.exe.config
+D:\Documents\BI\3Курс\2Семестър\Системен анализ и проектиране\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.exe
+D:\Documents\BI\3Курс\2Семестър\Системен анализ и проектиране\Course Project SAP - Teodor Penev 115013\C#\Course_Project_SAP\obj\Debug\Course_Project_SAP.pdb

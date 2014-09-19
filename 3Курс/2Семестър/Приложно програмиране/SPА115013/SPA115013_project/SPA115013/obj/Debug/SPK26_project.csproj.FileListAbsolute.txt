@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\bin\Debug\SPK26_project.exe.config
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\bin\Debug\SPK26_project.exe
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\bin\Debug\SPK26_project.pdb
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.MainForm.resources
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.Properties.Resources.resources
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.exe
+C:\Users\student\Desktop\SPK26\SPK26_project\SPK26_project\obj\Debug\SPK26_project.pdb
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPK26_project\bin\Debug\SPK26_project.exe.config
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPK26_project\obj\Debug\SPK26_project.exe
+C:\Users\Teodor\Desktop\SPK26\SPA115013_project\SPK26_project\obj\Debug\SPK26_project.pdb

@@ -1,0 +1,14 @@
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\bin\Debug\Phones.exe.config
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.Form1.resources
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.Resources.resources
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.vbproj.GenerateResource.Cache
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\bin\Debug\Phones.exe
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\bin\Debug\Phones.pdb
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\bin\Debug\Phones.xml
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.exe
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.xml
+d:\my\documenti\visual studio 2012\Projects\Phones\Phones\obj\Debug\Phones.pdb
+D:\Documents\BI\3Курс\2Семестър\Системно програмиране\Regular Expression\Phones\Phones\Phones\Phones\bin\Debug\Phones.exe.config
+D:\Documents\BI\3Курс\2Семестър\Системно програмиране\Regular Expression\Phones\Phones\Phones\Phones\obj\Debug\Phones.exe
+D:\Documents\BI\3Курс\2Семестър\Системно програмиране\Regular Expression\Phones\Phones\Phones\Phones\obj\Debug\Phones.xml
+D:\Documents\BI\3Курс\2Семестър\Системно програмиране\Regular Expression\Phones\Phones\Phones\Phones\obj\Debug\Phones.pdb
