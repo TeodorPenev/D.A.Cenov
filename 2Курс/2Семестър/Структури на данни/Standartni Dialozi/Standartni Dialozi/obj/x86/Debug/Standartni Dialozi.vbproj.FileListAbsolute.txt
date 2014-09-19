@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.exe
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.pdb
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.xml
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni_Dialozi.Form1.resources
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni_Dialozi.Resources.resources
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.exe
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.xml
+C:\Users\student\Desktop\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\bin\Debug\Standartni Dialozi.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni_Dialozi.Form1.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni_Dialozi.Resources.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Standartni Dialozi\Standartni Dialozi\obj\x86\Debug\Standartni Dialozi.vbproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+C:\Users\student\Desktop\Zodii\Zodii\bin\Debug\Zodii.exe
+C:\Users\student\Desktop\Zodii\Zodii\bin\Debug\Zodii.pdb
+C:\Users\student\Desktop\Zodii\Zodii\bin\Debug\Zodii.xml
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.Form1.resources
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.Resources.resources
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.exe
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.xml
+C:\Users\student\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.pdb
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.exe
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.xml
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.pdb
+C:\Users\Teodor\Desktop\Zodii\Zodii\bin\Debug\Zodii.exe
+C:\Users\Teodor\Desktop\Zodii\Zodii\bin\Debug\Zodii.pdb
+C:\Users\Teodor\Desktop\Zodii\Zodii\bin\Debug\Zodii.xml
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.Form1.resources
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.Resources.resources
+C:\Users\Teodor\Desktop\Zodii\Zodii\obj\x86\Debug\Zodii.vbproj.GenerateResource.Cache
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.Form1.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.Resources.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.vbproj.GenerateResource.Cache

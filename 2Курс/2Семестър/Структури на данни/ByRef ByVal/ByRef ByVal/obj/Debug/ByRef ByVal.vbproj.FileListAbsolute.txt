@@ -1,0 +1,20 @@
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.exe.config
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.vbproj.GenerateResource.Cache
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.pdb
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.exe.config
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.exe
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.xml
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.pdb
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.exe
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.pdb
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\bin\Debug\ByRef ByVal.xml
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\BI\2Курс\2Семестър\Структури на данни\ByRef ByVal\ByRef ByVal\obj\Debug\ByRef ByVal.vbproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.exe
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.pdb
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.xml
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form1.resources
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form2.resources
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Resources.resources
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.exe
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.xml
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.pdb
+C:\Users\student\Desktop\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form3.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.exe
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.pdb
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\bin\Debug\Uprajnenie 07 03 2013.xml
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form1.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form2.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Form3.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie_07_03_2013.Resources.resources
+D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Упражнение 07 03 2013\Uprajnenie 07 03 2013\Uprajnenie 07 03 2013\obj\x86\Debug\Uprajnenie 07 03 2013.vbproj.GenerateResource.Cache
