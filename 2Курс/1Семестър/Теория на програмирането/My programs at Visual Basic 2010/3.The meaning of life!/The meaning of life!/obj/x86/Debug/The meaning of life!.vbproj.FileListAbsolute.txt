@@ -1,0 +1,9 @@
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\bin\Debug\The meaning of life!.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\bin\Debug\The meaning of life!.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\bin\Debug\The meaning of life!.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\The meaning of life!.vbproj.GenerateResource.Cache
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\The meaning of life!.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\The meaning of life!.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\3.The meaning of life!\The meaning of life!\obj\x86\Debug\The meaning of life!.pdb

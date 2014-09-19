@@ -1,0 +1,6 @@
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\AxWindowsMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Teodor\Desktop\D.A.Cenov_BusinessInformatics\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\6.AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Teodor\Desktop\D.A.Cenov_BusinessInformatics\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\6.AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Teodor\Desktop\D.A.Cenov_BusinessInformatics\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\6.AxWindowsMediaPlayer\AxWindowsMediaPlayer\obj\x86\Debug\AxWindowsMediaPlayer.vbproj.ResolveComReference.cache

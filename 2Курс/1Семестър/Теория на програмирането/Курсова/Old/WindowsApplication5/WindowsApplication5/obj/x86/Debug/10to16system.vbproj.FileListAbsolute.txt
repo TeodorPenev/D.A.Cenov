@@ -1,0 +1,18 @@
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Form1.resources
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Resources.resources
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\10to16system.vbproj.GenerateResource.Cache
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Form1.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Old\WindowsApplication5\WindowsApplication5\obj\x86\Debug\10to16system.vbproj.GenerateResource.Cache

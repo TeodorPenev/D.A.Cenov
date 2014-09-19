@@ -1,0 +1,18 @@
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\bin\Debug\4.Simple Calculator.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\bin\Debug\4.Simple Calculator.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\bin\Debug\4.Simple Calculator.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.vbproj.GenerateResource.Cache
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\bin\Debug\4.Simple Calculator.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\bin\Debug\4.Simple Calculator.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\bin\Debug\4.Simple Calculator.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\4.Simple Calculator & 5.RadioButtons\4.Simple Calculator\obj\x86\Debug\4.Simple Calculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.exe
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.pdb
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.xml
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Resources.resources
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.vbproj.GenerateResource.Cache
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.exe
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.xml
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.pdb
+C:\Users\Teodor\AppData\Local\Temporary Projects\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Преобрзувател.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.vbproj.GenerateResource.Cache
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Form.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\bin\Debug\Converter Decimal to Hexadecimal.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Form.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\New\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.vbproj.GenerateResource.Cache

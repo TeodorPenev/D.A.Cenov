@@ -1,0 +1,9 @@
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\bin\Release\Истината!.exe
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\bin\Release\Истината!.pdb
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\bin\Release\Истината!.xml
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\Истината!.vbproj.GenerateResource.Cache
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\Истината!.exe
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\Истината!.xml
+C:\Users\Teodor\documents\visual studio 2010\Projects\Истината!\Истината!\obj\x86\Release\Истината!.pdb

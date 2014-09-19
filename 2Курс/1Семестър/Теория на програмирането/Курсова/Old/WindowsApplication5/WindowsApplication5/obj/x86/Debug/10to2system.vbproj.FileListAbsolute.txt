@@ -1,0 +1,20 @@
+D:\24 grupa\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\24 grupa\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\24 grupa\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Form1.resources
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Resources.resources
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+D:\24 grupa\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Form1.resources
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.Resources.resources
+C:\Users\Teodor\Desktop\WindowsApplication5\WindowsApplication5\obj\x86\Debug\10to2system.vbproj.GenerateResource.Cache

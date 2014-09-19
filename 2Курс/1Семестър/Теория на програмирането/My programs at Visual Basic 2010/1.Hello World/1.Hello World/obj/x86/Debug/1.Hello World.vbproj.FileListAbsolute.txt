@@ -1,0 +1,18 @@
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\bin\Debug\1.Hello World.exe
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\bin\Debug\1.Hello World.pdb
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\bin\Debug\1.Hello World.xml
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\Hello_World.Resources.resources
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.vbproj.GenerateResource.Cache
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.exe
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.xml
+C:\Users\Teodor\documents\visual studio 2010\Projects\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\bin\Debug\1.Hello World.exe
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\bin\Debug\1.Hello World.pdb
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\bin\Debug\1.Hello World.xml
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\Hello_World.Form1.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\Hello_World.Resources.resources
+D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\My programs at Visual Basic 2010\1.Hello World\1.Hello World\obj\x86\Debug\1.Hello World.vbproj.GenerateResource.Cache
