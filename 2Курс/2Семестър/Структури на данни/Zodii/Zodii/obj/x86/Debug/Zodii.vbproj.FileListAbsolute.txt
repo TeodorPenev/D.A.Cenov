@@ -24,3 +24,6 @@ D:\Documents\BI\2Курс\2 Семестър\Структури на данни\
 D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.Form1.resources
 D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.Resources.resources
 D:\Documents\BI\2Курс\2 Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.vbproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\2Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.exe
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\2Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.xml
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\2Семестър\Структури на данни\Zodii\Zodii\obj\x86\Debug\Zodii.pdb

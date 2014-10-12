@@ -16,3 +16,6 @@ D:\Documents\BI\2Курс\1Семестър\Теория на програмир
 D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Form1.resources
 D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter_Decimal_to_Hexadecimal.Resources.resources
 D:\Documents\BI\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.vbproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.exe
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.xml
+C:\Users\Monika\Desktop\GitHub Depo\D.A.Cenov\2Курс\1Семестър\Теория на програмирането\Курсова\Converter Decimal to Hexadecimal\Converter Decimal to Hexadecimal\obj\x86\Debug\Converter Decimal to Hexadecimal.pdb
