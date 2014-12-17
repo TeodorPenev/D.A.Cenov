@@ -88,6 +88,18 @@
     <Compile Include="ReportByDate.Designer.cs">
       <DependentUpon>ReportByDate.cs</DependentUpon>
     </Compile>
+    <Compile Include="ReportByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportByName.Designer.cs">
+      <DependentUpon>ReportByName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportByRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportByRoom.Designer.cs">
+      <DependentUpon>ReportByRoom.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -108,10 +120,19 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
     <EmbeddedResource Include="ReportByDate.resx">
       <DependentUpon>ReportByDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportByName.resx">
+      <DependentUpon>ReportByName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportByRoom.resx">
+      <DependentUpon>ReportByRoom.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ds.xsc">
       <DependentUpon>ds.xsd</DependentUpon>
@@ -136,6 +157,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lacleamy-hotel-services-background.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

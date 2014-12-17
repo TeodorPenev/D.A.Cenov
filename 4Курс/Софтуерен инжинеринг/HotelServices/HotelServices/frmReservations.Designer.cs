@@ -32,6 +32,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmReservations));
             this.reservationBindingNavigator = new System.Windows.Forms.BindingNavigator(this.components);
             this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
+            this.reservationBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.ds = new HotelServices.ds();
             this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
             this.bindingNavigatorDeleteItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorMoveFirstItem = new System.Windows.Forms.ToolStripButton();
@@ -51,15 +53,13 @@
             this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.reservationBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.ds = new HotelServices.ds();
             this.reservationTableAdapter = new HotelServices.dsTableAdapters.ReservationTableAdapter();
             this.tableAdapterManager = new HotelServices.dsTableAdapters.TableAdapterManager();
             ((System.ComponentModel.ISupportInitialize)(this.reservationBindingNavigator)).BeginInit();
             this.reservationBindingNavigator.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.reservationDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.reservationBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ds)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reservationDataGridView)).BeginInit();
             this.SuspendLayout();
             // 
             // reservationBindingNavigator
@@ -88,7 +88,7 @@
             this.reservationBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.reservationBindingNavigator.Name = "reservationBindingNavigator";
             this.reservationBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.reservationBindingNavigator.Size = new System.Drawing.Size(1029, 25);
+            this.reservationBindingNavigator.Size = new System.Drawing.Size(756, 25);
             this.reservationBindingNavigator.TabIndex = 0;
             this.reservationBindingNavigator.Text = "bindingNavigator1";
             // 
@@ -101,10 +101,20 @@
             this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(23, 22);
             this.bindingNavigatorAddNewItem.Text = "Add new";
             // 
+            // reservationBindingSource
+            // 
+            this.reservationBindingSource.DataMember = "Reservation";
+            this.reservationBindingSource.DataSource = this.ds;
+            // 
+            // ds
+            // 
+            this.ds.DataSetName = "ds";
+            this.ds.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(39, 22);
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(35, 22);
             this.bindingNavigatorCountItem.Text = "of {0}";
             this.bindingNavigatorCountItem.ToolTipText = "Total number of items";
             // 
@@ -201,7 +211,7 @@
             this.reservationDataGridView.DataSource = this.reservationBindingSource;
             this.reservationDataGridView.Location = new System.Drawing.Point(12, 28);
             this.reservationDataGridView.Name = "reservationDataGridView";
-            this.reservationDataGridView.Size = new System.Drawing.Size(794, 220);
+            this.reservationDataGridView.Size = new System.Drawing.Size(743, 220);
             this.reservationDataGridView.TabIndex = 1;
             this.reservationDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.reservationDataGridView_CellContentClick);
             // 
@@ -212,7 +222,7 @@
             this.dataGridViewTextBoxColumn1.HeaderText = "Номер на резервация";
             this.dataGridViewTextBoxColumn1.MaxInputLength = 100;
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.Width = 146;
+            this.dataGridViewTextBoxColumn1.Width = 132;
             // 
             // dataGridViewTextBoxColumn2
             // 
@@ -221,7 +231,7 @@
             this.dataGridViewTextBoxColumn2.HeaderText = "ЕГН на клиента";
             this.dataGridViewTextBoxColumn2.MaxInputLength = 10;
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            this.dataGridViewTextBoxColumn2.Width = 114;
+            this.dataGridViewTextBoxColumn2.Width = 103;
             // 
             // dataGridViewTextBoxColumn3
             // 
@@ -230,7 +240,7 @@
             this.dataGridViewTextBoxColumn3.HeaderText = "Номер на стая";
             this.dataGridViewTextBoxColumn3.MaxInputLength = 10;
             this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.Width = 84;
+            this.dataGridViewTextBoxColumn3.Width = 78;
             // 
             // dataGridViewTextBoxColumn4
             // 
@@ -238,7 +248,7 @@
             this.dataGridViewTextBoxColumn4.DataPropertyName = "Price";
             this.dataGridViewTextBoxColumn4.HeaderText = "Цена за нощувка (лв.)";
             this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.Width = 121;
+            this.dataGridViewTextBoxColumn4.Width = 113;
             // 
             // dataGridViewTextBoxColumn5
             // 
@@ -247,7 +257,7 @@
             this.dataGridViewTextBoxColumn5.HeaderText = "Начална дата";
             this.dataGridViewTextBoxColumn5.MaxInputLength = 10;
             this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.Width = 104;
+            this.dataGridViewTextBoxColumn5.Width = 93;
             // 
             // dataGridViewTextBoxColumn6
             // 
@@ -256,7 +266,7 @@
             this.dataGridViewTextBoxColumn6.HeaderText = "Крайна дата";
             this.dataGridViewTextBoxColumn6.MaxInputLength = 10;
             this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
-            this.dataGridViewTextBoxColumn6.Width = 97;
+            this.dataGridViewTextBoxColumn6.Width = 87;
             // 
             // dataGridViewTextBoxColumn7
             // 
@@ -264,17 +274,7 @@
             this.dataGridViewTextBoxColumn7.DataPropertyName = "FinalPrice";
             this.dataGridViewTextBoxColumn7.HeaderText = "Крайна Цена (лв.)";
             this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
-            this.dataGridViewTextBoxColumn7.Width = 102;
-            // 
-            // reservationBindingSource
-            // 
-            this.reservationBindingSource.DataMember = "Reservation";
-            this.reservationBindingSource.DataSource = this.ds;
-            // 
-            // ds
-            // 
-            this.ds.DataSetName = "ds";
-            this.ds.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.dataGridViewTextBoxColumn7.Width = 93;
             // 
             // reservationTableAdapter
             // 
@@ -292,7 +292,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1029, 509);
+            this.ClientSize = new System.Drawing.Size(756, 248);
             this.Controls.Add(this.reservationDataGridView);
             this.Controls.Add(this.reservationBindingNavigator);
             this.Name = "frmReservations";
@@ -301,9 +301,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.reservationBindingNavigator)).EndInit();
             this.reservationBindingNavigator.ResumeLayout(false);
             this.reservationBindingNavigator.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.reservationDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.reservationBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ds)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.reservationDataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

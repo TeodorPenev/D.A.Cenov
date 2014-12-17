@@ -40,6 +40,18 @@ namespace HotelServices
             ReportByDate r1 = new ReportByDate();
             r1.ShowDialog();
         }
+
+        private void справкаПоСтаяToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReportByRoom r2 = new ReportByRoom();
+            r2.ShowDialog();
+        }
+
+        private void справкаПоИмеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReportByName r3 = new ReportByName();
+            r3.ShowDialog();
+        }
        
     }
 }

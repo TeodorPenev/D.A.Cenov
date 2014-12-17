@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+}
+
+#bg {
+    background:url(../images/bg.jpg);
+    margin:0 auto;
+    width:900px;
+    height:350px;
+}
+
+#registration{
+    padding-top:100px;
+}
+
+input {
+    margin-top: 15px;
+}
+
+h1{
+    font-size: 35px;
+    font-style: italic;
+}

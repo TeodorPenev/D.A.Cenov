@@ -1,0 +1,21 @@
+body{
+    background:no-repeat;
+    background-image:url("../images/bg.jpg") ;
+    background-position-x:left;
+}
+
+h1{
+    margin: 0px 60px 60px 60px;
+    color:white;
+    text-align:left;
+}
+
+p{
+    margin: 0px 60px 60px 60px;
+    color: white;
+}
+
+img {
+    margin: 60px 60px 60px 60px;
+    width: 150px;
+}

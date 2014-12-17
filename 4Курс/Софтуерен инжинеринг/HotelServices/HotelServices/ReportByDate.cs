@@ -25,13 +25,13 @@ namespace HotelServices
             this.reportViewer1.RefreshReport();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void bt1_Click(object sender, EventArgs e)
         {
             ReservationTableAdapter.FindByDate(ds.Reservation, dateTimePicker1.Value.Date.ToString());
             reportViewer1.RefreshReport();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void bt2_Click(object sender, EventArgs e)
         {
             ReservationTableAdapter.FilterByDateDiff(ds.Reservation, dateTimePicker1.Value.Date.ToString(),dateTimePicker2.Value.ToString());
             reportViewer1.RefreshReport();
