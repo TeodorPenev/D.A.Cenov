@@ -27,7 +27,7 @@ namespace HotelServices
 
         private void frmRooms_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'ds.Rooms' table. You can move, or remove it, as needed.
+            // Този реф зарежда данните в ds.Rooms. Можем да местим и изтриваме.
             this.roomsTableAdapter.Fill(this.ds.Rooms);
 
         }

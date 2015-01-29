@@ -205,6 +205,7 @@
             this.roomsDataGridView.Name = "roomsDataGridView";
             this.roomsDataGridView.Size = new System.Drawing.Size(305, 480);
             this.roomsDataGridView.TabIndex = 1;
+            this.roomsDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.roomsDataGridView_CellContentClick);
             // 
             // dataGridViewTextBoxColumn1
             // 
